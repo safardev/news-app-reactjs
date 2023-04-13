@@ -1,0 +1,3 @@
+ async componentDidMount() {
+    this.updateNews();
+  }
